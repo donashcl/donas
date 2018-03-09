@@ -2,5 +2,5 @@
   Donas!
 </a></h1>
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://octodex.github.com/images/femalecodertocat.png)
 Format: ![Alt Text](url)
